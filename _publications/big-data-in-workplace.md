@@ -2,6 +2,7 @@
 title: "Big Data in the Workplace and Talent Analytics"
 collection: publications
 permalink: /publication/big-data-in-workplace
+date: <empty>
 excerpt: ''
 venue: 'Woo, S. E., Tay, L., & Proctor, R. W. (Eds.) Big Data Methods for Psychological Research: New Horizons and Challenges'
 paperurl: ''
